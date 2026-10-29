@@ -3,8 +3,8 @@ class MacDash < Formula
 
   desc "Real-time CPU/GPU/memory TUI dashboard for macOS"
   homepage "https://github.com/wonwoo89/mac-dash"
-  url "https://github.com/wonwoo89/mac-dash/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "7d9604f24a7c2d70cc96c2c5f01782462d388af7cfdb4a06db0161521cd2a06a"
+  url "https://github.com/wonwoo89/mac-dash/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "a763ef6ea586ea4528dc2b1fd461735c99b5acb78740def574e6a273bc1546bd"
   license "MIT"
 
   depends_on :macos
